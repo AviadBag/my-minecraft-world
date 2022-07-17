@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2022-07-17 14:47:35 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-07-12 18:57:22 +0300"
@@ -322,6 +328,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2022-07-12 18:57:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-07-17 14:41:30 +0300"
     },
     "done": true
   },
@@ -445,9 +457,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-07-17 14:41:30 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2022-07-12 15:40:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-07-17 14:41:30 +0300"
     },
     "done": true
   },
@@ -595,6 +619,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2022-07-17 14:47:35 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-04-24 10:11:19 +0300"
@@ -610,6 +640,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2022-07-12 19:08:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-07-17 14:41:30 +0300"
     },
     "done": true
   },
@@ -727,6 +763,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2022-04-24 10:07:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-07-17 14:41:30 +0300"
     },
     "done": true
   },
@@ -1006,6 +1048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-07-17 14:41:30 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2022-07-12 18:52:39 +0300"
@@ -1087,6 +1135,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2022-04-24 10:08:42 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2022-07-17 14:41:30 +0300"
     },
     "done": true
   },
@@ -1184,11 +1238,17 @@
     "criteria": {
       "minecraft:snowy_slopes": "2022-07-17 14:37:15 +0300",
       "minecraft:taiga": "2022-04-24 10:06:10 +0300",
+      "minecraft:deep_ocean": "2022-07-17 14:44:02 +0300",
       "minecraft:sunflower_plains": "2022-07-12 15:30:53 +0300",
+      "minecraft:birch_forest": "2022-07-17 14:47:57 +0300",
+      "minecraft:beach": "2022-07-17 14:46:17 +0300",
+      "minecraft:dark_forest": "2022-07-17 14:46:58 +0300",
       "minecraft:river": "2022-04-24 10:09:26 +0300",
       "minecraft:stony_shore": "2022-07-11 16:05:46 +0300",
       "minecraft:forest": "2022-07-11 15:50:54 +0300",
+      "minecraft:ocean": "2022-07-17 14:43:38 +0300",
       "minecraft:flower_forest": "2022-07-12 19:19:25 +0300",
+      "minecraft:old_growth_birch_forest": "2022-07-17 14:46:15 +0300",
       "minecraft:meadow": "2022-07-12 15:49:40 +0300",
       "minecraft:plains": "2022-07-11 16:04:38 +0300"
     },
