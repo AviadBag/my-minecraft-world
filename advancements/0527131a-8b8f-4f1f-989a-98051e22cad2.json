@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2022-07-21 21:11:37 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2022-04-24 10:08:42 +0300"
@@ -251,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2022-07-21 21:12:10 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2022-07-11 16:03:35 +0300"
@@ -335,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2022-07-21 21:04:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-07-17 23:22:34 +0300"
@@ -386,6 +404,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2022-07-12 15:40:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2022-07-21 21:11:37 +0300"
     },
     "done": true
   },
@@ -443,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-07-21 21:10:58 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2022-04-24 10:09:49 +0300"
@@ -494,6 +524,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-04-24 10:07:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2022-07-21 21:04:36 +0300"
     },
     "done": true
   },
@@ -862,6 +898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2022-07-21 21:08:12 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2022-07-12 19:08:25 +0300"
@@ -1216,6 +1258,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2022-07-21 21:11:18 +0300",
       "minecraft:basalt_deltas": "2022-07-21 21:03:17 +0300"
     },
     "done": false
@@ -1454,6 +1497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2022-07-21 21:11:37 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2022-07-11 15:56:18 +0300"
@@ -1629,6 +1678,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2022-07-12 19:21:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2022-07-21 21:11:37 +0300"
     },
     "done": true
   },
@@ -1860,6 +1915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2022-07-21 21:08:12 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2022-07-17 18:49:47 +0300"
@@ -1953,6 +2014,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2022-07-17 23:22:34 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2022-07-21 21:12:10 +0300"
     },
     "done": true
   },
@@ -2100,6 +2167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2022-07-21 21:09:17 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2022-04-24 10:14:19 +0300"
@@ -2202,6 +2275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2022-07-21 21:04:36 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2022-07-12 19:09:48 +0300"
@@ -2259,6 +2338,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2022-07-12 15:33:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2022-07-21 21:11:37 +0300"
     },
     "done": true
   },
@@ -2349,6 +2434,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2022-07-17 18:51:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2022-07-21 21:11:37 +0300"
     },
     "done": true
   },
